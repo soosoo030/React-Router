@@ -1,0 +1,18 @@
+{
+  "systemParams": "win32-x64-83",
+  "modulesFolders": [
+    "node_modules"
+  ],
+  "flags": [],
+  "linkedModules": [],
+  "topLevelPatterns": [
+    "redux@^4.1.1"
+  ],
+  "lockfileEntries": {
+    "@babel/runtime@^7.9.2": "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.15.4.tgz#fd17d16bfdf878e6dd02d19753a39fa8a8d9c84a",
+    "redux@^4.1.1": "https://registry.yarnpkg.com/redux/-/redux-4.1.1.tgz#76f1c439bb42043f985fbd9bf21990e60bd67f47",
+    "regenerator-runtime@^0.13.4": "https://registry.yarnpkg.com/regenerator-runtime/-/regenerator-runtime-0.13.9.tgz#8925742a98ffd90814988d7566ad30ca3b263b52"
+  },
+  "files": [],
+  "artifacts": {}
+}
